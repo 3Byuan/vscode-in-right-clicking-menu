@@ -1,6 +1,6 @@
 # vscode-in-right-clicking-menu
 a mac OS service for adding "open in visual studio code" item in the right-clicking menu
 
-Installation
+# Installation
 
-Copy this file into "~/Library/Services/" directory.
+Unzip the downloaded file then copy it into "~/Library/Services/" directory.
